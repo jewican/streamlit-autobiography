@@ -26,7 +26,7 @@ if page == "Home":
     
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        st.image("/workspaces/streamlit-autobiography/2x2.jpg", caption="Professional Photo", width='stretch')
+        st.image("2x2.jpg", caption="Professional Photo", width='stretch')
     
     st.markdown("---")
     
@@ -54,7 +54,7 @@ elif page == "About Me":
     col1, col2 = st.columns([1, 2])
     
     with col1:
-        st.image("/workspaces/streamlit-autobiography/2x2.jpg", width='stretch')
+        st.image("2x2.jpg", width='stretch')
     
     with col2:
         st.markdown("""
