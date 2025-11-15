@@ -1,0 +1,45 @@
+/* Main header styling */
+.main-header {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+/* Sub-header styling */
+.sub-header {
+    font-size: 1.2rem;
+    text-align: center;
+    color: #666;
+    margin-bottom: 2rem;
+}
+
+/* Section header styling */
+.section-header {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 3px solid #4CAF50;
+    padding-bottom: 0.5rem;
+}
+
+/* Project card styling */
+.project-card {
+    background-color: #f0f2f6;
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    border-left: 5px solid #4CAF50;
+}
+
+/* Skill badge styling */
+.skill-badge {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 15px;
+    margin: 0.2rem;
+    font-size: 0.9rem;
+}
